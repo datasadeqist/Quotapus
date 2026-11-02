@@ -2,6 +2,10 @@
 
 A tiny macOS menu bar app that shows how much of your Claude Code usage limit each of your Claude accounts has used. Handy when you switch between several accounts and keep losing track of which one still has room.
 
+<p align="center">
+  <img src="docs/screenshots/panel.png" width="380" alt="Quotapus panel under its menu bar item, showing four Claude accounts with their session and weekly usage">
+</p>
+
 - One small bar per account in the menu bar, filled by how much is used. It turns **orange** from 75% and **red** from 90%.
 - Hover for every account's percentage. Click for a native glass panel with the details.
 - Add as many accounts as you like. They stay after you switch accounts in Claude Code.
